@@ -36,4 +36,6 @@ def turn(board)
 end
 
 # Define your play method below
-display_board(board)
+def play(board)
+
+end
